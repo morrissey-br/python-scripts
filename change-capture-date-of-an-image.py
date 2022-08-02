@@ -1,5 +1,4 @@
 from os import listdir
-from os.path import isfile, join
 import json
 from datetime import datetime
 import piexif
